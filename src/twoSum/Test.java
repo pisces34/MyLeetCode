@@ -7,7 +7,7 @@ import twoSum.Solution;
  */
 public class Test {
     public static void main(String[] args) {
-        Solution s = new Solution();
+        Solution2 s = new Solution2();
         int[] nums = {2,5,5,11};
         int[] res = new int[2];
         res = s.twoSum(nums, 10);
